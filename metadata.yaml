@@ -1,0 +1,23 @@
+_repo: Esko-Virtalan-esittamia-kertomuksia_58742
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Calamnius, Edvin
+    aliases:
+    - Waltala, Esko
+    - Virtala, Esko
+    gutenberg_agent_id: '49293'
+    url: http://www.gutenberg.org/2009/agents/49293
+description: ''
+gutenberg_issued: '2019-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58742'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Esko Virtalan esittämiä kertomuksia
+url: http://www.gutenberg.org/ebooks/58742
